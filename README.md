@@ -1,6 +1,6 @@
 # todomvc-luminus-cljs
 
-Port of VanillaJS to Luminus and ClojureScript.
+Port of [TodoMVC VanillaJS](http://todomvc.com/vanilla-examples/vanillajs/)  to [Luminus](https://github.com/yogthos/luminus) and [ClojureScript](https://github.com/clojure/clojurescript).
 
 ## Prerequisites
 
@@ -19,4 +19,6 @@ After running these commands the application will be open in your default browse
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Keoko
+
+Distributed under the Eclipse Public License, the same as Clojure.
